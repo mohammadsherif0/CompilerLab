@@ -12,9 +12,9 @@ import java.util.Stack;
 /**
  * Write your info here
  * 
- * @name Mohammad Sherif Elwan
- * @id 49-1865
- * @labNumber 13
+ * @name
+ * @id
+ * @labNumber
  */
 
 public class NfaToDfa {
