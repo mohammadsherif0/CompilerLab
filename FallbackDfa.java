@@ -8,8 +8,8 @@ import java.util.Stack;
  * Write your info here
  * 
  * @name 
- * @id 49-
- * @labNumber 13
+ * @id 
+ * @labNumber 
  */
 
 public class FallbackDfa {
